@@ -15,13 +15,33 @@ function cards() {
                             src="../images/img-9.jpg"
                             text="Explore the nature"
                             label= 'Adventure'
-                            path = '/servies'
+                            path = '/services'
                         />
                         <CardItem 
                             src="../images/img-2.jpg"
-                            text="Explore the nature"
+                            text="Relax on the beach"
+                            label= 'Luxury'
+                            path = '/services'
+                        />
+                    </ul>
+                    <ul className="cards__items">
+                        <CardItem 
+                            src="../images/img-1.jpg"
+                            text="Climb the mountains"
                             label= 'Adventure'
-                            path = '/servies'
+                            path = '/services'
+                        />
+                        <CardItem 
+                            src="../images/img-8.jpg"
+                            text="Enjoy the yellow ocean of sand"
+                            label= 'Adventure'
+                            path = '/services'
+                        />
+                        <CardItem 
+                            src="../images/img-4.jpg"
+                            text="Football on the Island"
+                            label= 'Luxury'
+                            path = '/services'
                         />
                     </ul>
                 </div>
